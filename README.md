@@ -9,10 +9,9 @@
 - Example: 
 - Welcome to crypto listings app. Choose the function below:
 - Choose the amount of cryptocurrencies to be shown by market capitalization.
-- 0. To exit.
+- 0.To exit.
 - 5
--                           id  current_price    market_cap
-- market_cap_rank
+- market_cap_rank           id  current_price    market_cap
 - 1                    bitcoin       43303.00  815213153064
 - 2                   ethereum        3006.97  353771617562
 - 3                    cardano           2.26   72319277475
