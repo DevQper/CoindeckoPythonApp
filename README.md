@@ -1,6 +1,10 @@
 - # CoindeckoPythonApp
 - Assignment 1
 - To install you need to download the files in this repository and open them through the command line. For example: Python main.py
+- Also you will need to install Pandas and Coingecko. 
+- Use: 
+- pip install pandas 
+- pip install coingecko 
 - The app shows the Top N number of cryptocurrencies by market capitalization.
 - Example: 
 - Welcome to crypto listings app. Choose the function below:
